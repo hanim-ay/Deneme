@@ -1,7 +1,6 @@
 #include "stm32f4xx.h"
 #include "stdio.h"
 #include "math.h"
-//deneme1 Hanim Ay
 
 
 #define OUT_X_L				0x28           //sayfa 29 https://www.st.com/resource/en/datasheet/lis3dsh.pdf
