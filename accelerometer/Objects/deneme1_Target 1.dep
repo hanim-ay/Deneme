@@ -1,0 +1,120 @@
+Dependencies for Project 'deneme1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\main.c)(0x5E96318A)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_STM32F4_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EF362)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EF362)
+I (.\RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5E8F1793)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h)(0x52B3E526)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9B186A)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5D9B1862)
+F (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Lib\ARM\arm_cortexM4lf_math.lib)(0x5D25D706)()
+F (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\src\misc.c)(0x52B3E526)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_STM32F4_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000"-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EF362)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EF362)
+I (.\RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5E8F1793)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x52B3E526)
+F (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\src\stm32f4xx_gpio.c)(0x52B3E526)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_STM32F4_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000"-o .\objects\stm32f4xx_gpio.o --omf_browse .\objects\stm32f4xx_gpio.crf --depend .\objects\stm32f4xx_gpio.d)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EF362)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EF362)
+I (.\RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5E8F1793)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h)(0x52B3E526)
+F (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\src\stm32f4xx_rcc.c)(0x52B3E526)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_STM32F4_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000"-o .\objects\stm32f4xx_rcc.o --omf_browse .\objects\stm32f4xx_rcc.crf --depend .\objects\stm32f4xx_rcc.d)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EF362)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EF362)
+I (.\RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5E8F1793)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h)(0x52B3E526)
+F (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\src\stm32f4xx_spi.c)(0x52B3E526)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_STM32F4_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000"-o .\objects\stm32f4xx_spi.o --omf_browse .\objects\stm32f4xx_spi.crf --depend .\objects\stm32f4xx_spi.d)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EF362)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EF362)
+I (.\RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5E8F1793)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h)(0x52B3E526)
+F (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\src\stm32f4xx_usart.c)(0x52B3E526)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_STM32F4_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000"-o .\objects\stm32f4xx_usart.o --omf_browse .\objects\stm32f4xx_usart.crf --depend .\objects\stm32f4xx_usart.d)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EF362)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EF362)
+I (.\RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5E8F1793)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h)(0x52B3E526)
+F (RTE\Device\STM32F407VG\RTE_Device.h)(0x535F8474)()
+F (RTE\Device\STM32F407VG\startup_stm32f40_41xxx.s)(0x529EF362)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "STM32F40_41xxx SETA 1"--list .\listings\startup_stm32f40_41xxx.lst --xref -o .\objects\startup_stm32f40_41xxx.o --depend .\objects\startup_stm32f40_41xxx.d)
+F (RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)()
+F (RTE\Device\STM32F407VG\system_stm32f4xx.c)(0x529EF362)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F407VG-I.\RTE\_Target_1-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include-IC:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_STM32F4_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000"-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EF362)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EF362)
+I (.\RTE\Device\STM32F407VG\stm32f4xx_conf.h)(0x52E60388)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5E8F1793)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_gpio.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_rcc.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_spi.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\stm32f4xx_usart.h)(0x52B3E526)
+I (C:\Users\Hp\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\StdPeriph_Driver\inc\misc.h)(0x52B3E526)
